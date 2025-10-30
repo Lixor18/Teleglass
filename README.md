@@ -1,7 +1,12 @@
 # Teleglass
 Future Telegram with Liquid Glass and free posibilities
 
-To run the python, you must install python 3.13+ and these modules:
-pip install customtkinter telethon Pillow numpy
+For Developers:
+-Teleglass Open Source Code
+To create your own Messenger, download Teleglass v1.1 (0.3) **CUSTOM**.zip
 
-To run exe. Just run
+For Beta Testers: 
+-Download Teleglass v1.1 (0.3) **USE**.zip
+
+If you downloaded vesion for developers, you must install python 3.13+ and these modules:
+pip install fastapi uvicorn telethon starlette anyio
