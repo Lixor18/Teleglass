@@ -2,8 +2,7 @@
 Future Telegram with Liquid Glass and free posibilities
 
 For Developers:
-Teleglass Open Source Code
-To create your own Messenger, download Teleglass v1.1 (0.3) **CUSTOM**.zip
+Download Teleglass v1.1 (0.3) **CUSTOM**.zip
 
 For Beta Testers: 
 Download Teleglass v1.1 (0.3) **USE**.zip
