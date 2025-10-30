@@ -2,11 +2,11 @@
 Future Telegram with Liquid Glass and free posibilities
 
 For Developers:
--Teleglass Open Source Code
+Teleglass Open Source Code
 To create your own Messenger, download Teleglass v1.1 (0.3) **CUSTOM**.zip
 
 For Beta Testers: 
--Download Teleglass v1.1 (0.3) **USE**.zip
+Download Teleglass v1.1 (0.3) **USE**.zip
 
 If you downloaded vesion for developers, you must install python 3.13+ and these modules:
 pip install fastapi uvicorn telethon starlette anyio
