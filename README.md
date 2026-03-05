@@ -59,7 +59,7 @@ Depending on your goals, please choose the appropriate package:
 
 If you find this project useful and want to support its further development, you can contribute via Monobank:
 
-[![Donate via Monobank](https://img.shields.io/badge/Support-Monobank-FF4F58?style=for-the-badge&logo=monobank)](https://send.monobank.ua/jar/3mTUUWZpd)
+[![Donate via Monobank](https://img.shields.io/badge/Support-Monobank-FF4F58?style=for-the-badge&logo=monobank)](https://send.monobank.ua/jar/9DT7dhDvm7)
 
 ---
 
@@ -68,7 +68,7 @@ If you find this project useful and want to support its further development, you
 Stay updated and follow the development process:
 
 * **Telegram Channel:** [L1XOR TG](https://t.me/l1xorTG) — Announcements and updates.
-* **TikTok:** [@l1xor](https://www.tiktok.com/@l1xor) — Devlogs and showcases.
+* **TikTok:** [@l1xor](https://www.tiktok.com/@l1xor) [@l1xor_](https://www.tiktok.com/@l1xor_) — Devlogs and showcases.
 
 ---
 
