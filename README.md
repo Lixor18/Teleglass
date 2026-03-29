@@ -67,8 +67,8 @@ If you find this project useful and want to support its further development, you
 
 Stay updated and follow the development process:
 
-* **Telegram Channel:** [L1XOR TG](https://t.me/l1xorTG) — Announcements and updates.
-* **TikTok:** [@l1xor](https://www.tiktok.com/@l1xor) [@l1xor_](https://www.tiktok.com/@l1xor_) — Devlogs and showcases.
+* **Telegram Channel:** [w1nyear](https://t.me/w1nyearTG) — Announcements and updates.
+* **TikTok:** [@w1nyear](https://www.tiktok.com/@w1nyear) [@l1xohuh](https://www.tiktok.com/@l1xohuh) — Devlogs and showcases.
 
 ---
 
