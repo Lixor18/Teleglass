@@ -75,3 +75,7 @@ Stay updated and follow the development process:
 ## 🤝 Contributing
 
 Contributions are welcome! If you have ideas for new features or bug fixes, feel free to fork the repository (using the **Custom** package) and submit a pull request.
+
+!!!!!!!!!!!!! UPDATE !!!!!!!!!!!!
+!! Teleglass is end of support !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
